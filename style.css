@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #3e3e44 !important;
+}
+
+#navbarNavDropdown {
+  list-style: none;
+  justify-content: space-between !important;
+}
+.nav-link {
+  text-decoration: none !important;
+  color: #e5e5e5 !important;
+}
+
+.jumbotron {
+  background-color: #f2e2e5;
+  margin-top: 40px;
+}
+
+.highlight {
+  color: #2699fb;
+}
+
+.card {
+  background-color: #f2e2e5 !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  justify-content: center !important;
+  align-items: center !important;
+  display: flex !important;
+}
+
+.img-fluid {
+  max-width: 50% !important;
+}
